@@ -18,7 +18,7 @@ This clinic management system project allows users to:
 
 It's a clean backend example for clinicdb task manager API and demonstrates how to integrate MySQL with Express.js for full CRUD functionality.
 
-## Setup Instructions
+## ⚙️Setup Instructions
 
 1. Clone the Repository
 2. Install dependencies
@@ -26,7 +26,7 @@ It's a clean backend example for clinicdb task manager API and demonstrates how 
 4. Import SQL Schema
 5. Start the server
 
-# link for the ERD
+# 🔗Link for the ERD
 
 https://dbdiagram.io/d/Clinic-management-system-6813766f1ca52373f5198954
 
