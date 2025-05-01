@@ -1,46 +1,34 @@
 # wk-8a
 
-Question 1: Build a Complete Database Management System
-Objective:
-Design and implement a full-featured database using only MySQL.
+# Project Title
 
-What to do:
+Clinic management system
 
-Choose a real-world use case (e.g., Library Management, Student Records, Clinic Booking System, Inventory Tracking, etc.)
+# 📝 Task Manager API
 
-Create a well-structured relational database using SQL.
+A simple RESTful API for managing clinic tasks using Node.js, Express, and MySQL.
 
-Use SQL to create:
+## 📌 Project Description
 
-Tables with proper constraints (PK, FK, NOT NULL, UNIQUE)
+This clinic management system project allows users to:
 
-Relationships (1-1, 1-M, M-M where needed)
+- Create, view, update, and delete tasks
+- Associate tasks with specific users
+- Track task statuses and due dates
 
-Deliverables:
+It's a clean backend example for clinicdb task manager API and demonstrates how to integrate MySQL with Express.js for full CRUD functionality.
 
-A single .sql file containing your:
+## Setup Instructions
 
-CREATE TABLE statements
+1. Clone the Repository
+2. Install dependencies
+3. Create env file
+4. Import SQL Schema
+5. Start the server
 
-Sample  data
+# link for the ERD
 
-Question 2: Create a Simple CRUD API Using MySQL + Programming
+https://dbdiagram.io/d/Clinic-management-system-6813766f1ca52373f5198954
 
-Objective:
-Combine your MySQL skills with a programming language (Python or JavaScript) to create a working CRUD API.
 
-What to do:
 
-Choose any use case (e.g., Task Manager, Contact Book, Student Portal)
-
-Design your database schema in MySQL (at least 2–3 tables)
-
-Build an API using:
-
-Node.js + Express (if using JavaScript)
-
-FastAPI (if using Python)
-
-Implement all CRUD operations (Create, Read, Update, Delete)
-
-Connect your API to the MySQL database
